@@ -58,7 +58,7 @@ The cd command is used to change the working directory. Simply type cd along wit
 
 
 
-![Image](C:\Users\Nel\Pictures\dev-pics\absolutle_path.PNG)
+![Image](../images/absolutle_path.PNG)
 
 Here I typed out the entire path from the root till the end.
 
@@ -66,7 +66,7 @@ You can also use a relative path which involves specifying the location of a fil
 
 
 
-![Image](C:\Users\Nel\Pictures\dev-pics\relative_path.PNG)
+![Image](../images/relative_path.PNG)
 
 Here I navigated to the web-dev directory from my home directory. I only had to specify the we-dev directory to move into it. Unlike the previous example where I specified from root.
 
@@ -81,7 +81,7 @@ demonstrated below:
 
 
 
-![Image](C:\Users\Nel\Pictures\dev-pics\cd_example.PNG)
+![Image](../images/cd_example.PNG)
 
 
 The most common issues is getting lost in the CLI, the best way to fix that is the use the pwd command. This will print out the working directory you are currently in. Anytime you are not sure simply type pwd and it will show you the absolute path you are in. As shown above. 
